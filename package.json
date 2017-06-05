@@ -1,0 +1,17 @@
+{
+  "name": "node-parser",
+  "version": "1.0.0",
+  "description": "Oracle Primavera P6 .xer to MongoDB parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "7coder",
+  "license": "ISC",
+  "dependencies": {
+    "line-by-line": "^0.1.5",
+    "mongodb": "^2.2.28"
+  }
+}
